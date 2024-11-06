@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 환경 변수 설정
-export WORK="/root/Bums"
+export WORK="/root/Duck_Chain"
 export NVM_DIR="$HOME/.nvm"
 
 # 색상 정의
