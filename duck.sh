@@ -15,6 +15,7 @@ echo -e "${GREEN}Duck_Chain을 설치합니다.${NC}"
 echo -e "${GREEN}스크립트작성자: https://t.me/kjkresearch${NC}"
 echo -e "${GREEN}출처: https://github.com/Bachtran301/Duck_Chain${NC}"
 
+echo -e "${YELLOW}설치를 하신 후 Screen을 새로 열어서 Faucet도 자동실행을 해두세요.${NC}"
 echo -e "${GREEN}설치 옵션을 선택하세요:${NC}"
 echo -e "${YELLOW}1. Duck_Chain 새로 설치${NC}"
 echo -e "${YELLOW}2. 재실행하기${NC}"
